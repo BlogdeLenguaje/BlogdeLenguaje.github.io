@@ -86,9 +86,12 @@ Este enfoque realiza la construcción de modelos de un sistema por medio de la i
 <p>Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
 1.-Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán. También es difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto.<br>
 2.-Para muchos tipos de software, el diseño y la construcción están imbricados.</p>
-<h2>Kanba</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I-H-WXAX_oM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<center><h2>Kanba</h2></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I-H-WXAX_oM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><h2>Scrum</h2></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/a33xOe9d_Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><h2>Xtreme Programing</h2></center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J5gIg4ynBks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 
 
