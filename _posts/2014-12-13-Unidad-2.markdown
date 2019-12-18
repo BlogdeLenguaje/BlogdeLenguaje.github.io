@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unidad 2: PROCESO DEL SOFTWARE"
-date:   2019-12-19
+date:   2019-12-16
 description: Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.
 image: 
 ---
