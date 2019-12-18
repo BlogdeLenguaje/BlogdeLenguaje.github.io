@@ -136,7 +136,7 @@ El DSDM utiliza un enfoque “de propósito comercial” para la entrega y los c
  <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1yhwdrw5Yy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 <center><h2>Desarrollo Basado en Funcionalidades (FDD)</h2></center>
 <p>Jeff De Luca, junto a los colaboradores A.m. Rajashima, Lim Bak Wee, Paul Szego, Jon Kern y Stehen Palmer desarrollaron el método de Desarrollo Basado en Funcionalidades (FDD). Es un proceso iterativo que comienza estableciendo la forma del modelo ágil. Las iteraciones del “diseño basado en las funcionalidades, build basada en las funcionalidades” duran dos semanas. Las funcionalidades gustan a los clientes porque son pequeñas y útiles.<br>
-<n>El diseño y desarrollo FDD se basa en estas ocho prácticas:</b><br>
+<b>El diseño y desarrollo FDD se basa en estas ocho prácticas:</b><br>
 1.Modelado de objetos del dominio<br>
 2.Desarrollo de funcionalidades<br>
 3.Propiedad de clases y componentes<br>
