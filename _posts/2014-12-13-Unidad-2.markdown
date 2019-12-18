@@ -88,8 +88,13 @@ Este enfoque realiza la construcción de modelos de un sistema por medio de la i
 2.-Para muchos tipos de software, el diseño y la construcción están imbricados.</p>
 <center><h2>Kanba</h2></center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/I-H-WXAX_oM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center><h2>Scrum</h2></center>
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/a33xOe9d_Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div id="scrum">
+  <h2 class="pageTitle">Scrum</h2>
+  <div class="ScrumContent">
+<p> Scrum es un framework de gestión con grandes posibilidades de control y gestión de las iteraciones y los incrementos en todo tipo de proyectos. Las tácticas Scrum son ligeras y se pueden combinar con otras metodologías ágiles. Su popularidad ha crecido dentro de la comunidad de desarrollo ágil, ya que son sencillas y tienen una probada productividad.</p>
+  </div>
+ <img src="http://www.socializatte.com/wp-content/uploads/2019/07/the-agile-scrum-framework.png" width="355" height="355">
+</div>
 <center><h2>Xtreme Programing</h2></center>
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/J5gIg4ynBks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
