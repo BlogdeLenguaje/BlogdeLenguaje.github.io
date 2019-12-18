@@ -1,0 +1,27 @@
+title: Luis Vargas Peñafiel
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Inicio
+    url: /index.html
+  - title: Acerca de mí
+    url: /about
+  - title: Contacto
+    url: /contact
+
+social:
+  github: LuisVargasP
+  twitter: LuisWorkout98
+  facebook: profile.php?id=100010939398193
+  email: tuttorial5612@gmail.com
+google_analytics: "UA-58263416-1"
