@@ -1,0 +1,113 @@
+---
+layout: post
+title:  "Unidad 2: PROCESO DEL SOFTWARE"
+date:   2019-12-19
+description: Un conjunto estructurado de actividades necesarias para desarrollar un sistema de software.
+image: 
+---
+<center><img src="https://okhosting.com/resources/uploads/2018/03/modelos-de-sistemas-software.png"></center>
+
+<p class="intro"><span class="dropcap">U</span>n conjunto estructurado de actividades necesarias para desarrollar un sistema de software.<br>
+Muchos de los procesos de software son diferentes, pero todos implican:<br>
+-Especificación<br>
+-Diseño e implementación<br>
+-Validación<br>
+-Evolución<br></p>
+  <h2>Características del Proceso Software</h2>
+  <p>-El proceso establece todas las actividades principales<br>
+-El proceso utiliza recursos, está sujeto a una serie de restricciones y genera productos intermedios y finales<br>
+-El proceso puede estar compuesto de subprocesos que se encadenan de alguna manera. Puede definirse como una jerarquía de procesos organizada de modo que cada subproceso tenga su propio modelo de proceso<br>
+-Cada actividad del proceso tiene criterios de entrada y de salida, de modo que se conoce cuándo comienza y cuándo termina una actividad</p>
+<h2>Ciclo de vida del Software</h2>
+ <p>Cuando un proceso implica la construcción de algún producto, suele referirse al proceso como un ciclo de vida<br>
+-El proceso de desarrollo de software suele denominarse ciclo de vida del software<br>
+Se puede definir ciclo de vida del software como:<br>
+Las distintas fases por las que pasa el software desde que nace una necesidad de mecanizar un proceso hasta que deja de utilizarse el software que sirvió para ese objetivo, pasando por las fases de desarrollo y explotación [Frakes et al., 1991]</p>
+<h2>Ámbito general del ciclo de vida del Software</h2>
+<p>Desde un punto de vista general puede considerarse que el ciclo de vida de un software tiene tres etapas claramente diferenciadas: <br>
+-Planificación<br>
+-Implementación<br>
+-Puesta en producción</p>
+<h2>Razones para modelar un proceso de Software</h2>
+<p>-Cuando se pone por escrito una descripción de un proceso, se da forma a una comprensión común de las actividades, recursos y restricciones relacionados con el desarrollo del software.<br>
+-Ayuda al equipo de desarrollo a encontrar las inconsistencias, las redundancias y las omisiones en el proceso y en las partes que lo constituyen.<br>
+-El modelo debe reflejar las metas del desarrollo. A medida que se construye el modelo el equipo de desarrollo evalúa las actividades candidatas por su adecuación para alcanzar dichas metas.</p>
+<h2>Modelo general de proceso en Ingeniería</h2>
+<p>-Especificación<br>
+-Diseño<br>
+-Fabricación<br>
+-Prueba<br>
+-Instalación<br>
+-Mantenimiento</p>
+<h2>El proceso de Software</h2>
+<p>Conjunto de actividades necesarias para transformar las ideas iniciales del usuario, que desea automatizar un determinado trabajo, en software.</p>
+<h2>Modelos de proceso de Software</h2>  
+<p>1.-Modelo de cascada<br>
+2.-Desarrollo incremental<br>
+3.-Modelo espiral<br>
+4.-Desarrollo Rápido de Aplicaciones (DRA) <br>
+5.-Orientados a la reutilización<br>
+6.-Orientado a Objetos</p>
+<center><h2>Modelos de proceso Software</h2></center>
+<h2>Modelo Cascada</h2>
+ <center><img src="https://user.oc-static.com/upload/2017/07/11/14997883020913_Captura%20de%20pantalla%202017-07-11%20a%20las%2017.51.18.png"></center> 
+  <p><b>Las fases están identificadas por separado:</b><br>
+-El análisis y definición de requerimientos<br>
+-Diseño del sistema y software.<br>
+-Pruebas de implementación de unidades<br>
+-Integración y pruebas del sistema<br>
+-Operación y mantenimiento<br>
+El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
+<h2>Modelo Desarrollo Incremental</h2>
+<img src="https://images.slideplayer.es/2/5574261/slides/slide_6.jpg">  
+<p>-El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
+-Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
+-Más rápida entrega y despliegue de software de utilidad para el cliente es posible.</p>
+<h2>Modelo Espiral</h2> 
+  <center><img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png"></center>
+<p>Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
+Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
+Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
+El Modelo Espiral mejora el Modelo de Cascada enfatizando la naturaleza iterativa del proceso de diseño. Eso introduce un ciclo de prototipo iterativo. En cada iteración, las nuevas expresiones que son obtenidas transformando otras dadas son examinadas para ver si representan progresos hacia el objetivo.</p>
+<h2>Desarrollo Rápido de Aplicaciones</h2>
+<center><img src="http://2.bp.blogspot.com/-x84rVY-9t1E/UZPlSIdsASI/AAAAAAAAAC0/e9tTE5rjGdE/s1600/jas.png"></center>
+<p>Es un modelo de proceso del ciclo de vida clásico que enfatiza un ciclo de vida de desarrollo extremadamente corto.<br>
+El modelo DRA es una adaptación a alta velocidad del ciclo de vida clásico en el que se logra el desarrollo rápido utilizando un enfoque de construcción basado en componentes. Si se comprenden bien los requisitos y se limita el ámbito del proyecto, el proceso DRA permite al equipo de desarrollo crear un sistema completamente funcional dentro de períodos cortos de tiempo.</p>
+<h2>Orientados a la Reutilización</h2>  
+<center><img src="http://image.slidesharecdn.com/1presentacion1-ingenieriadesoftware1-110302200240-phpapp01/95/1-presentacion1ingenieriadesoftware1-36-728.jpg?cb=1299096191"></center>
+<p>Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.<br>
+Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.</p>
+<h2>Orientado a Objetos</h2>
+<img src="https://ingsoftware.weebly.com/uploads/2/3/8/2/23822483/1147705_orig.png">  
+<p>El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
+Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre sí de acuerdo a los requerimientos establecidos para el sistema de objetos.</p>
+<h2>Procesos o Metodologías Ágiles</h2>  
+<center><img src="http://programaenlinea.net/wp-content/uploads/2015/06/metodologias.png"></center>
+<p>Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
+1.-Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán. También es difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto.<br>
+2.-Para muchos tipos de software, el diseño y la construcción están imbricados.</p>
+</div>
+
+
+
+
+
+
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
