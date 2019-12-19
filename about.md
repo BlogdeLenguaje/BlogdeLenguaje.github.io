@@ -27,7 +27,7 @@ title: Unidades
  <a href="https://luisvargasp.github.io/blog/tema1/">-Introduccion a la Ingenieria Software</a><br> 
   <a href="https://luisvargasp.github.io/blog/tema2/">-Procesos de Ingeniería de Información</a><br> 
   <a href="https://luisvargasp.github.io/blog/tema3/">-Sistema de Información</a><br> 
- <h1><center>Unidad 2:/center></h1>
+ <h1><center>Unidad 2:</center></h1>
 <p class="intro" aling="justify"><span class="dropcap">U</span>n conjunto estructurado de actividades necesarias para desarrollar un sistema de software.</p> 
    <h2>Temas de la Unidad</h2><br>
  <a href="https://luisvargasp.github.io/blog/tema4/">-Proceso del Software</a><br> 
