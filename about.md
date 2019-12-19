@@ -2,10 +2,7 @@
 layout: default
 title: Unidades
 ---
-
-<div class="post">
-	<div class="post">
-	<h1 class="pageTitle">Introduccion a la Ingenieria en Software</h1>
+  <h1 class="pageTitle">Introduccion a la Ingenieria en Software</h1>
   <embed src="{{ '/assets/img/DBZindex.mp3' | prepend: site.baseurl }}" autostarty="true" loop="true" volumen="30" width="0" height="0">
   <ul class="posts noList">
     {% for post in paginator.posts %}
@@ -25,4 +22,4 @@ title: Unidades
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
   </div>
-</div>
+
