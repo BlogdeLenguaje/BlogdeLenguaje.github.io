@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Introduccion a la Ingenieria Software"
-date:   2014-12-18
+title:  "Unidad 1:Introduccion a la Ingenieria Software"
+date:   2014-12-8
 ---
 
 <center><img src="https://leonides1993.files.wordpress.com/2014/05/jhkc3b1.jpg"></center>
