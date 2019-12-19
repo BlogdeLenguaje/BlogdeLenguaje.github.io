@@ -21,8 +21,8 @@ title: Unidades
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
-  <button onclick="location.href='https://luisvargasp.github.io/blog/Unidad-1/'" width="300" height="300">Unidad 1</button>
-  <button onclick="location.href='https://luisvargasp.github.io/blog/Unidad-2/'"width="300" height="300">Unidad 2</button>
+  <button onclick="location.href='https://luisvargasp.github.io/blog/Unidad-1/'" width="500" height="500">Unidad 1</button>
+  <button onclick="location.href='https://luisvargasp.github.io/blog/Unidad-2/'" width="500" height="500">Unidad 2</button>
 
 </div>
 
