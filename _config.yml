@@ -14,7 +14,7 @@ paginate: 5
 navigation:
   - title: Inicio
     url: /index.html
-  - title: Acerca de mí
+  - title: Unidades
     url: /about
   - title: Contacto
     url: /contact
