@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Unidad 1: INTRODUCCIÓN DE LA INGENIERÍA DE SOFTWARE"
+date:   2019-12-17
+description: La Ingenieria de Software es una aplicación práctica del conocimiento científico para poveer metologías y técnicas que ayuden a dessarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las espectativas de calidad y permanezca dentro del presupuesto.
+image: 
+---
+ <center><img src="https://leonides1993.files.wordpress.com/2014/05/jhkc3b1.jpg"></center>
+<p class="intro"><span class="dropcap">L</span>a Ingenieria de Software es una aplicación práctica del conocimiento científico para poveer metologías y técnicas que ayuden a dessarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las espectativas de calidad y permanezca dentro del presupuesto</p> 
