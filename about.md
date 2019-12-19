@@ -21,5 +21,6 @@ title: Unidades
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
+  <button onclick="location.href='https://www.facebook.com'">facebook</button>
   </div>
 
