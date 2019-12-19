@@ -21,6 +21,6 @@ title: Unidades
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
-  <h1><button onclick="location.href='https://luisvargasp.github.io/blog/Unidad-1/' width="300" height="300"">Unidad 1</button></h1>
+  <button onclick="location.href='https://luisvargasp.github.io/blog/Unidad-1/' width="300" height="300"">Unidad 1</button>
   </div>
 
