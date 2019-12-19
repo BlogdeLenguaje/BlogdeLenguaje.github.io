@@ -25,3 +25,4 @@ title: Unidades
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
   </div>
+</div>
