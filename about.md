@@ -22,7 +22,7 @@ title: Unidades
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
  <h2> 
- <a href="https://luisvargasp.github.io/blog/Unidad-1/">Unidad 1</a>
+ <a href="https://luisvargasp.github.io/blog/Unidad-1/">Unidad 1</a> <br>
  <a href="https://luisvargasp.github.io/blog/Unidad-2/">Unidad 2</a>
  </h2>
 </div>
