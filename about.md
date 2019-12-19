@@ -21,9 +21,17 @@ title: Unidades
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
- <h1><center><a href="https://luisvargasp.github.io/blog/tema1/">Unidad 1</a><br></center></h1>
+ <h1><center>Unidad 1:<br></center></h1>
  <p class="intro" aling="justify"><span class="dropcap">L</span>a Ingenieria de Software es una aplicación práctica del conocimiento científico para poveer metologías y técnicas que ayuden a dessarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las espectativas de calidad y permanezca dentro del presupuesto.</p>  
- <h1><center><a href="https://luisvargasp.github.io/blog/tema4/">Unidad 2</a></center></h1>
+<h2>Temas de la Unidad</h2><br>
+ <a href="https://luisvargasp.github.io/blog/tema1/">-Introduccion a la Ingenieria Software</a><br> 
+  <a href="https://luisvargasp.github.io/blog/tema2/">-Procesos de Ingeniería de Información</a><br> 
+  <a href="https://luisvargasp.github.io/blog/tema3/">-Sistema de Información</a><br> 
+ <h1><center>Unidad 2:/center></h1>
 <p class="intro" aling="justify"><span class="dropcap">U</span>n conjunto estructurado de actividades necesarias para desarrollar un sistema de software.</p> 
+   <h2>Temas de la Unidad</h2><br>
+ <a href="https://luisvargasp.github.io/blog/tema4/">-Proceso del Software</a><br> 
+  <a href="https://luisvargasp.github.io/blog/tema5/">-Modelos del proceso de Software</a><br> 
+  <a href="https://luisvargasp.github.io/blog/tema6/">-Metologías Agiles</a><br> 
 
 
