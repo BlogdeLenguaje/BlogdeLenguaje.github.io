@@ -21,11 +21,9 @@ title: Unidades
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
- <h2> 
- <center><a href="https://luisvargasp.github.io/blog/Unidad-1/">Unidad 1</a><br></center>
+ <h2><center><a href="https://luisvargasp.github.io/blog/Unidad-1/">Unidad 1</a><br></center></h2>
  <p aling="justify"><p class="intro"><span class="dropcap">L</span>a Ingenieria de Software es una aplicación práctica del conocimiento científico para poveer metologías y técnicas que ayuden a dessarrollar sistemas de software a tiempo, y a su vez que aseguren que el desarrollador cumpla con las espectativas de calidad y permanezca dentro del presupuesto.</p>  
- <center><a href="https://luisvargasp.github.io/blog/Unidad-2/">Unidad 2</a></center>
- <p aling="justify"><p class="intro"><span class="dropcap">U</span>n conjunto estructurado de actividades necesarias para desarrollar un sistema de software.<br></p>
- </h2>
+ <h2><center><a href="https://luisvargasp.github.io/blog/Unidad-2/">Unidad 2</a></center></h2>
+ <p aling="justify"><p class="intro"><span class="dropcap">U</span>n conjunto estructurado de actividades necesarias para desarrollar un sistema de software.<br></p> 
 </div>
 
