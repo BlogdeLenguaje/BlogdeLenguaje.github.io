@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Unidad 2: Proceso del Software"
-date:   2014-12-13
+date:   2014-12-20
 ---
 
 <center><img src="https://okhosting.com/resources/uploads/2018/03/modelos-de-sistemas-software.png"></center>
