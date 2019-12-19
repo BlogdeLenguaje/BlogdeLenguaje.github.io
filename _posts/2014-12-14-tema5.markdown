@@ -1,18 +1,104 @@
 ---
 layout: post
-title:  "Featured Image"
+title:  "Modelos de proceso Software"
 date:   2014-12-14
-image: touring.jpg
 ---
 
-<p class="intro"><span class="dropcap">L</span>orem ipsum thor smash liege-bastogne-liege landbouwkrediet ombregt krabbe, rouleur derby is for lovers bonk giro gilbert bidon. Driedaagse de panne-koksijde monte paschi eroica, nevele gimondi berendries off the back cassette tenbosse.</p>
-
-Bahamontes lanterne rouge normandie belgium. Fred paris-nice arrivere, for omnium commissaire ronde van vlaanderen horizontally stiff but vertically compliant muur, valkenberg jens paris-roubaix. Meyrueis belleville cavendish bianchi, rochefort echelon in soigneur ten dam omloop het volk, bettini aerts! Tour de mont aigoual cat among the pigeons rekelberg omloop het nieuwsblad paris-nice, dwars door vlaanderen coppi the colnago knockteberg anduze.
-
-Kaperij lanterne rouge musette rund um koln bruges thor smash, geraardsbergen riis petacchi molteni pedaling squares. Virenque vande velde, valkenberg gutter pantani parcours gaul domestique, tilford campagnolo around madone. Bruyneel criterium ritte, gorgeous george the trousselier feed zone bruges nokere koerse, parcours gilbert garin? Anquetil valkenberg bettini cat among the pigeons.
-
-Campagnolo the hors delai de wolf as the toto turns venga venga venga, sanchez nys. Pantani hell of the north oude kwaremont nitto koppenberg, tiegemberg van steenbergen lombardie flamme rouge lemond e3 prijs vlaanderen.
-
-Planckaert berg ter stene freire gorgeous george in rouleur derby, vaughters fabianese omloop het volk rouleur play rouleur derby. Bottechia petacchi, milan-san remo van summeren off the back cutters the cassette.
-
-Nyvelocity pyrenees vande velde merckx. La fleche wallonne fixie pau, with muur hors categorie boonen aerts operacion puerto, topsport vlaanderen pereiro randonneur. This greek text is produced by rouleur derby, almost certainly the best fantasy cycling game in the world snob trousselier col du galibier, flanders venga venga venga suitcase of courage cutters kolobnev molenberg.
+<center><h2>Modelos de proceso Software</h2></center>
+<h2>Modelo Cascada</h2>
+ <center><img src="https://user.oc-static.com/upload/2017/07/11/14997883020913_Captura%20de%20pantalla%202017-07-11%20a%20las%2017.51.18.png"></center> 
+  <p><b>Las fases están identificadas por separado:</b><br>
+-El análisis y definición de requerimientos<br>
+-Diseño del sistema y software.<br>
+-Pruebas de implementación de unidades<br>
+-Integración y pruebas del sistema<br>
+-Operación y mantenimiento<br>
+El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
+<h2>Modelo Desarrollo Incremental</h2>
+<img src="https://images.slideplayer.es/2/5574261/slides/slide_6.jpg">  
+<p>-El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
+-Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
+-Más rápida entrega y despliegue de software de utilidad para el cliente es posible.</p>
+<h2>Modelo Espiral</h2> 
+  <center><img src="http://jamj2000.github.io/entornosdesarrollo/1/assets/espiral.png"></center>
+<p>Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
+Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
+Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
+El Modelo Espiral mejora el Modelo de Cascada enfatizando la naturaleza iterativa del proceso de diseño. Eso introduce un ciclo de prototipo iterativo. En cada iteración, las nuevas expresiones que son obtenidas transformando otras dadas son examinadas para ver si representan progresos hacia el objetivo.</p>
+<h2>Desarrollo Rápido de Aplicaciones</h2>
+<center><img src="http://2.bp.blogspot.com/-x84rVY-9t1E/UZPlSIdsASI/AAAAAAAAAC0/e9tTE5rjGdE/s1600/jas.png"></center>
+<p>Es un modelo de proceso del ciclo de vida clásico que enfatiza un ciclo de vida de desarrollo extremadamente corto.<br>
+El modelo DRA es una adaptación a alta velocidad del ciclo de vida clásico en el que se logra el desarrollo rápido utilizando un enfoque de construcción basado en componentes. Si se comprenden bien los requisitos y se limita el ámbito del proyecto, el proceso DRA permite al equipo de desarrollo crear un sistema completamente funcional dentro de períodos cortos de tiempo.</p>
+<h2>Orientados a la Reutilización</h2>  
+<center><img src="http://image.slidesharecdn.com/1presentacion1-ingenieriadesoftware1-110302200240-phpapp01/95/1-presentacion1ingenieriadesoftware1-36-728.jpg?cb=1299096191"></center>
+<p>Esta aproximación se basa en la existencia de un número significativo de elementos reutilizables. El proceso de desarrollo, se centra en la integración de estos elementos en un sistema, en lugar de desarrollarlo desde cero.<br>
+Incorpora muchas características del modelo en espiral. Es evolutivo por naturaleza.</p>
+<h2>Orientado a Objetos</h2>
+<img src="https://ingsoftware.weebly.com/uploads/2/3/8/2/23822483/1147705_orig.png">  
+<p>El modelo orientado a objetos utiliza el paradigma de la orientación a objetos para el desarrollo de software.<br>
+Este enfoque realiza la construcción de modelos de un sistema por medio de la identificación y la especificación de un conjunto de objetos relacionados, que colaboran entre sí de acuerdo a los requerimientos establecidos para el sistema de objetos.</p>
+<h2>Procesos o Metodologías Ágiles</h2>  
+<center><img src="http://programaenlinea.net/wp-content/uploads/2015/06/metodologias.png"></center>
+<p>Cualquier proceso del software ágil se caracteriza por la forma en la que aborda cierto número de suposiciones clave [Fow02] acerca de la mayoría de proyectos de software:<br>
+1.-Es difícil predecir qué requerimientos de software persistirán y cuáles cambiarán. También es difícil pronosticar cómo cambiarán las prioridades del cliente a medida que avanza el proyecto.<br>
+2.-Para muchos tipos de software, el diseño y la construcción están imbricados.</p>
+<center><h2>Scrum</h2></center>
+<center><img src="http://www.socializatte.com/wp-content/uploads/2019/07/the-agile-scrum-framework.png"></center>
+<p> Scrum es un framework de gestión con grandes posibilidades de control y gestión de las iteraciones y los incrementos en todo tipo de proyectos. Las tácticas Scrum son ligeras y se pueden combinar con otras metodologías ágiles. Su popularidad ha crecido dentro de la comunidad de desarrollo ágil, ya que son sencillas y tienen una probada productividad.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/a33xOe9d_Dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><h2>Kanba</h2></center>
+<center><img src="https://www.fhios.es/wp-content/uploads/2019/03/Kanban.jpg"></center>
+<p>Las organizaciones utilizan el método Kanban para gestionar la creación del proyecto a la vez que se pone el énfasis en la entrega continua y en no sobrecargar al equipo de desarrollo. Como el método Scrum, los procesos Kanban están diseñados para ayudar a los equipos a trabajar juntos de manera más eficiente.</p>
+<p><b>Tiene tres principios:</b><br>
+1.	Visualiza lo que haces: ve todos los elementos dentro del contexto de cada uno – más informativo<br>
+2.	Limita la cantidad de trabajo en progreso (WIP): equilibra el flujo de trabajo, de manera que los equipos no se ven forzados a realizar mucho trabajo<br>
+3.	Mejora el flujo de trabajo: tan pronto como una tarea esté finalizada, comienza con el siguiente trabajo más grande del backlog<br>
+El método Kanban promueve la colaboración continua entre el cliente y el equipo. Incentiva el continuo aprendizaje y las mejoras para dar al equipo el mejor flujo de trabajo posible.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/I-H-WXAX_oM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><h2>Xtreme Programing</h2></center>
+<center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extreme_Programming.svg/1200px-Extreme_Programming.svg.png"></center>  
+<p>El método Programación Extrema (XP) fue originalmente descrito por Kent Beck. Es una de las metodologías ágiles más populares y controvertidas. XP es un método de mucha disciplina que consiste en entregar continuamente software de alta calidad con rapidez. El cliente se involucra activamente con el equipo para realizar la planificación, el testeo y dar feedback, consiguiendo entregar software funcional con frecuencia. El software debería ser entregado por intervalos, cada tres semanas.<br>
+<b>El método XP original está basado en cuatro simples valores:</b><br>
+Simplicidad<br>
+Comunicación<br>
+Feedback<br>
+Coraje<br></p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/J5gIg4ynBks" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+  <center><h2>Crystal</h2></center>
+  <center><img src="http://assets.devx.com/articlefigs/17424.jpg"></center>
+  <p>La metodología Crystal es una de las menos pesadas y más adaptables en el mundo del desarrollo software. Está compuesta de varios procesos ágiles, que incluyen el Clear, Crystal Yellow, Crystal Orange, y otros métodos. Hay muchos factores que impulsan estos procesos, incluyendo: el tamaño del equipo y del sistema, y las prioridades del proyecto.</p>
+<p>La familia de Crystal se centra en el hecho de que cada proyecto tiene características únicas, por tanto, las políticas y prácticas tienen que adaptarse a estas características.<br>
+<b>El método Crystal tiene varios principios fundamentales, incluyendo:</b><br>
+•	Trabajo en equipo<br>
+•	Comunicación<br>
+•	Simplicidad<br>
+•	Reflexión<br>
+•	justes frecuentes<br>
+•	Mejorar los procesos<br>
+Este proceso ágil, como otras metodologías, promueve la entrega temprana y frecuente de software funcional. Incentiva la adaptación e involucración del usuario, eliminando las distracciones y la burocracia.</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/UbWXz9krL7Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+ <center><h2>Método de Desarrollo de Sistemas Dinámicos (DSDM)</h2></center>
+ <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/DSDM_Atern_Project_Phases.png/640px-DSDM_Atern_Project_Phases.png"></center>
+<p>El Método de Desarrollo de Sistemas Dinámicos (DSDM) se creó en 1994 para proveer un framework estándar para la entrega de proyectos, y por entonces se llamó Desarrollo Rápido de Aplicaciones (DRA). Aunque era muy popular en los 90, el modelo DRA se desarrolló de manera no estructurada.<br>
+Desde sus inicios, el DSDM ha evolucionado y madurado; ahora proporciona una base para la planificación, la gestión, la ejecución y el escalado del proceso ágil y los proyectos iterativos.<br>
+<b>El método DSDM tiene seis principios fundamentales:</b><br>
+1.Valor<br>
+2.Involucrar al cliente es la clave<br>
+3.Equipos empoderados<br>
+4.Entrega frecuente de productos<br>
+5.Testeo integrado<br>
+6.Cooperación entre todas las partes<br>
+El DSDM utiliza un enfoque “de propósito comercial” para la entrega y los criterios de aceptación. Se centra en la fórmula: lanzamiento del 80% del sistema en el 20% del tiempo.</p>
+ <center><iframe width="560" height="315" src="https://www.youtube.com/embed/1yhwdrw5Yy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><h2>Desarrollo Basado en Funcionalidades (FDD)</h2></center>
+<p>Jeff De Luca, junto a los colaboradores A.m. Rajashima, Lim Bak Wee, Paul Szego, Jon Kern y Stehen Palmer desarrollaron el método de Desarrollo Basado en Funcionalidades (FDD). Es un proceso iterativo que comienza estableciendo la forma del modelo ágil. Las iteraciones del “diseño basado en las funcionalidades, build basada en las funcionalidades” duran dos semanas. Las funcionalidades gustan a los clientes porque son pequeñas y útiles.<br>
+<b>El diseño y desarrollo FDD se basa en estas ocho prácticas:</b><br>
+1.Modelado de objetos del dominio<br>
+2.Desarrollo de funcionalidades<br>
+3.Propiedad de clases y componentes<br>
+4.Equipos de Funcionalidades<br>
+5.Inspección<br>
+6.Administración de configuración<br>
+7.Builds regulares<br>
+8.Reporte de progresos y resultados</p>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/mmlOgBWLVO4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
