@@ -10,7 +10,7 @@ date:   2014-12-18
 <p>1.- Idea principal: Puede ser distinguida fácilmente ya que tiene contenidos fundamentales. <br>
 2.- Ideas secundarias: Amplían y complementan a la idea principal. <br>
 3.- Unidad y coherencia: La oración principal como las secundarias se refieren a un solo hecho, es la organización apropiada de las oraciones de tal forma que el contenido sea claro y se entienda. </p>
-<center><img src="/assets/img/parrafoestructura.jpg"><center>
+<center><img src="/assets/img/parrafoestructura.jpg"></center>
 <h3>Tipos de párrafo </h3>
 <b>Introductorio :</b><br>
 <b>Desarrollo: </b> Debe ser explicativo <br>
