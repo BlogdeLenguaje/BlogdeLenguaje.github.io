@@ -73,3 +73,23 @@ Correcto: Me parece <b>que</b> le tenemos que decir la verdad antes de que se en
 Incorrecto: Creo <b>de que</b> deberíamos llamar a sus padres, no se siente nada bien.<br>
 Correcto: Creo <b>que</b> deberíamos llamar a sus padres, no se siente nada bien.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z1yvWRj5p4A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<font color="#169C28"><h3>-Solecismo</h3></font>
+<p>Un solecismo es un error en la estructura de una oración. Puede ser un error de concordancia, un error en la conjugación de un verbo, una preposición incorrecta, etc. Por ejemplo: La distancia debe ser mayor a un metro.</p>
+<h4>Ejemplos</h4>
+<p>Solecismo: Fue a Venezuela, <b>en cuyo</b> país viviría por un año. <br>
+Correcto: Fue a Venezuela, <b>donde</b> viviría por un año. <br>
+Solecismo: El alumno no ha completado la asistencia a las clases, <b>cuya</b> condición es indispensable para la aprobación del curso. <br>
+Correcto: El alumno no ha completado la asistencia a las clases, <b>condición</b> indispensable para la aprobación del curso. <br>
+Solecismo: Los niños, <b>cuyos</b> yo cuido los fines de semana. <br>
+Correcto: Los niños, <b>a quienes</b> yo cuido los fines de semana. <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6iSH-d1fwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<font color="#169C28"><h3>-Extranjerismo</h3></font>
+<p>Los extranjerismos son aquellas palabras de idiomas extranjeros que se introducen en el propio, sin ser traducido, y se lo usa de igual forma que cualquier palabra nativa. Muchas veces sucede que la pronunciación no se respeta del todo, sino que se deforma un poco. </p>
+<h4>Ejemplos</h4>
+<p>Las encuestas muestran que los dos candidatos van muy parejos. Seguramente van a ir a balotaje.<br>
+Para poder enviar el e-mail tenés que hacer clic en este link. <br>
+Los comensales pidieron hablar con el chef para felicitarlo por el exquisito plato que había preparado. <br>
+En el museo permiten sacar fotos, pero sin flash, para no estropear las obras. <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9vMHS-eAMLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
