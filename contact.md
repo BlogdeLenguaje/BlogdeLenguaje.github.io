@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Contactame
+title: Autores
 ---
 
 <div id="contact">
-  <h1 class="pageTitle">Autores</h1>
+  <h1 class="pageTitle">Responsables del Blog</h1>
   <div class="contactContent">
    <p class="intro"><b>Autores del Blog:</b></p>
     <b>Samuel Villegas</b><br>
