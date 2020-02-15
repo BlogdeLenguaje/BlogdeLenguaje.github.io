@@ -24,8 +24,8 @@ title: Temas propuestos
  <h1><center>¿Por qué consideramos estos temas?:<br></center></h1>
  <p class="intro" aling="justify"><span class="dropcap">S</span>Se selecionaron estos temas por motivos de bla bla bla</p>  
 <h2>Dele click para ver el tema</h2><br>
- <a href="https://blogdelenguaje.github.io/blog/tema1/">-Vicios del Lenguaje</a><br> 
-  <a href="https://blogdelenguaje.github.io/blog/tema2/">-Estructura del Parrafo</a><br> 
+ <a href="https://blogdelenguaje.github.io/blog/ViciosdelLenguaje/">-Vicios del Lenguaje</a><br> 
+  <a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br> 
   <a href="https://blogdelenguaje.github.io/blog/tema3/">-Uso correcto de B y V...</a><br> 
   <a href="https://blogdelenguaje.github.io/blog/tema4/">-Tema 4</a><br> 
   <a href="https://blogdelenguaje.github.io/blog/tema5/">-Tema 5</a><br> 
