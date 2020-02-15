@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Normas Ortograficas"
+title:  "Normas Ortográficas"
 date:   2014-12-19
 ---
 <font color="#32CD32"><h2>Normas ortográficas de la B y V </h2></font>
@@ -16,7 +16,7 @@ Ejemplo: reci<b>bir</b>, contri<b>buir</b>, escri<b>bir</b>, proh<b>ibir</b>, di
 •	Las terminaciones ¬<b>aba, ¬abas, ¬ábamos, ¬abais, ¬aban</b> de los verbos de la primera conjugación: dibujaba, patinabas, soplábamos, sentabais, limpiaban. <br>
 •	Las formas verbales: <b> iba, ibas, íbamos, ibais, iban del verbo ir. </b> <br>
 •	Las palabras terminadas en ¬<b>bilidad, ¬bundo, ¬bunda. </b>Ejemplos: excepto movilidad: amabilidad, vagabundo, vagabunda.<br></p>
-<font color="#169C28"><h4>Usos de la v</h4></font>
+<font color="#169C28"><h3>Usos de la v</h3></font>
 <p>
 •	Después de las letras <b>b, d y n Ejemplo. obvio, subversivo adverbio, adversario, convivir, invento. </b> <br>
 •	Las formas conjugadas de los verbos que en infinitivo no tiene ni <b>b</b> ni<b> v. </b><br>
