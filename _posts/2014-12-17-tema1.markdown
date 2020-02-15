@@ -8,9 +8,10 @@ date:   2014-12-17
 <p class="intro"><span class="dropcap">L</span>os vicios del lenguaje son las faltas que cometen ciertas personas en los códigos lingüísticos, orales o escritos, establecidos por la comunidad de hablantes de un idioma cualquiera. Estos fallos dificultan la transmisión de ideas y por ende no permiten que se concrete el acto comunicativo.
 </p>
 <font color="#32CD32"><center><h2>Tipos de vicios del Lenguaje</h2><br></center></font>
-<center><img src="/assets/img/vicio1.jpg"></center>
-<font color="#169C28"><center><h3>Barbarismo</h3></center></font>
-<p>Los barbarismos son vicios del lenguaje que consisten en pronunciar o escribir mal ciertas palabras, o emplear vocablos impropios, por creer que tienen cierto significado, cuando en verdad su significado es otro. Por ejemplo: naides, guevo, fuistes.</p>
-<center><img src="/assets/img/vicio2.jpg"></center>
-<center><img src="/assets/img/vicio3.jpg"></center>
-
+<font color="#169C28"><h3>-Anfibología o Anbigüedad</h3></font>
+<p>La anfibología es catalogada como un vicio de dicción y se define como aquello que se presta para más de una interpretación, o sea, algo que se vuelve ambiguo en su significado.</p>
+<p>Me encontré a un amigo cuando iba borracho.<br>
+<b>¿Quién iba borracho: el amigo o yo?</b><br>
+Se venden camisas para hombres grandes.<br>
+<b>¿Las camisas son grandes o los hombres?</b></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oKeUOah0xIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
