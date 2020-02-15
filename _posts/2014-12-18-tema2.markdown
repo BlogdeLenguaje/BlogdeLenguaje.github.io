@@ -11,7 +11,7 @@ date:   2014-12-18
 2.- Ideas secundarias: Amplían y complementan a la idea principal. <br>
 3.- Unidad y coherencia: La oración principal como las secundarias se refieren a un solo hecho, es la organización apropiada de las oraciones de tal forma que el contenido sea claro y se entienda. </p>
 <center><img src="/assets/img/parrafoestructura.jpg"></center>
-<font color="#32CD32"><h3>Tipos de párrafo </h3></font>
+<p><font color="#32CD32"><h3>Tipos de párrafo </h3></font>
 <font color="#169C28"><b>Introductorio :</b></font>
 <br>
 <font color="#169C28"><b>Desarrollo: </b></font>Debe ser explicativo <br>
