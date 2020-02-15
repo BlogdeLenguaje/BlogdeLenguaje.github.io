@@ -9,6 +9,8 @@ date:   2014-12-17
 </p>
 <font color="#32CD32"><center><h2>Tipos de vicios del Lenguaje</h2><br></center></font>
 <center><img src="/assets/img/vicio1.jpg"></center>
+<font color="#32CD32"><center><h3>Barbarismo</h3><br></center></font>
+<p>Los barbarismos son vicios del lenguaje que consisten en pronunciar o escribir mal ciertas palabras, o emplear vocablos impropios, por creer que tienen cierto significado, cuando en verdad su significado es otro. Por ejemplo: naides, guevo, fuistes.</p>
 <center><img src="/assets/img/vicio2.jpg"></center>
 <center><img src="/assets/img/vicio3.jpg"></center>
 
