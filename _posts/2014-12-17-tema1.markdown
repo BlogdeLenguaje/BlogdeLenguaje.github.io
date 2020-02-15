@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vicios del Lenguaje"
+title:  "Blog || Vicios del Lenguaje"
 date:   2014-12-17
 ---
 
