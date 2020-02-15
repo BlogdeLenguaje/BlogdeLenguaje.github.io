@@ -41,6 +41,25 @@ Excepciones: c<b>eba</b>, pru<b>eba</b>, manc<b>ebo</b>, plac<b>ebo</b>, rec<b>e
 Excepciones: ví<b>bora</b><br>
 Además de las excepciones que aparecen en las reglas, también son excepciones sus derivados.<br>
 •	dibujo ⇒ dibujante; noble ⇒ nobleza; arribo ⇒ arribada.</p>
+<center><font color="#32CD32"><h2>Normas Ortográficas de C, S y Z</h2></font></center>
+<font color="#169C28"><h3>El uso de la C</h3></font>
+<p>La C es la tercera letra del abecedario y su uso varía de acuerdo a cada palabra.<br>
+• Normalmente su sonido depende de las vocales a, o y u, por ejemplo: casa, cosas, cuerda, etc., o como las terminaciones: cito, cita, cillo. <br>
+• Aquellas palabras que termina en z y se cambia a plural, se escriben con “c”. Ejemplos: lápiz- lápices o luz-luces.<br>
+• Y por último, siempre que el sustantivo termine el tor y en sor, cambia a “ción”. Ejemplos: destructor-destrucción, director-dirección.</p>
+<font color="#169C28"><h3> El uso de la S
+</h3></font>
+<p>• Palabras que terminan en “sivo” como intensivo o antidepresivo, con algunas excepciones como nocivo y lascivo.<br>
+• También pueden tener terminaciones en:<br>
+– Es-esa como finlandés-francesa<br>
+– Esco-asco como pintoresco, grotesco<br>
+– Así como los adjetivos en ismo como altísimo o gravísimo</p>
+<font color="#169C28"><h3> El uso de la Z
+</h3></font>
+<p>• La letra z, se utiliza cuando las palabras terminan en azo, como balazo.<br>
+• También con sustantivos como ez, eza, como gentileza-naturaleza-validez.</p>
+
+
 
 
 
