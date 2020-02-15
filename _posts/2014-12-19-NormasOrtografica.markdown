@@ -58,6 +58,26 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 </h3></font>
 <p>• La letra z, se utiliza cuando las palabras terminan en azo, como balazo.<br>
 • También con sustantivos como ez, eza, como gentileza-naturaleza-validez.</p>
+<center><font color="#32CD32"><h2>Normas ortográficas de C, Q y K</h2></font></center>
+<font color="#169C28"><h3>Uso de la c (ce)</h3></font>
+<p>
+•	La letra c representa un sonido frente a las vocales a, o, u, frente a consonante y en posición final de sílaba o de palabra: 
+</b>ca</b>mino, <b>co</b>pia, <b>cu</b>bierta, <b>cl</b>ave, <b>cr</b>onograma, a<b>ct</b>a, fra<b>c</b>.<br>
+•	La letra c representa otro sonido frente a las vocales e, i: <b>ce</b>lebración, <b>ci</b>fra<br>.
+•	En México, la pronunciamos como s.</p>
+<font color="#169C28"><h3> Uso de la q (cu)</h3></font>
+<p>
+•	Se emplea agrupada con la u (muda) ante las vocales e, i: <b>que</b>dar, <b>qui</b>rófano.<br>
+•	Muchas palabras derivadas de otras que llevan c frente a la a, o, u, se escriben con q cuando debe sonar fuerte frente a la e o la i:
+atacar → ataque, saco → saquito.<br>
+•	Sólo se pronuncia la u en algunas palabras latinas: quórum, quid.</p>
+<font color="#169C28"><h3>Uso de la k (ka)</h3></font>
+<p>
+•	Se usa sólo en palabras procedentes de otras lenguas en las que se ha intentado respetar la ortografía original:<br>
+kamikaze, karate, karaoke, karma, kayak, kendo, ketchup, kit, kitsch, kiwi, koala, kung-fu, búnker, taekwondo.<br>
+•	En la raíz:  kilo- = ‘mil’ → kilogramo, kilómetro, kilovatio, kilobytes.
+•	Algunas palabras se pueden escribir con k, con c o con q:<br>
+biquini - bikini, caqui - kaki, kermés - quermés, quimono - kimono, quiosco - kiosco, curdo - kurdo, vodka - vodca.</p>
 
 
 
