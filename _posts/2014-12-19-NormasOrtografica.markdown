@@ -3,8 +3,8 @@ layout: post
 title:  "Normas Ortograficas"
 date:   2014-12-19
 ---
-<font color="#32CD32"><h2>Normas ortográficas de la B y V <h2></font>
-<font color="#169C28"><h4>Usos de la b</h4></font>
+<font color="#32CD32"><h2>Normas ortográficas de la B y V </h2></font>
+<font color="#169C28"><h3>Usos de la b</h3></font>
 <p>
 •	Todas las palabras que empiezan por:<b>bi-, bis-, biz-, bien-</b><br>. Ejemplo: bióloga,bisabuelo, bizcocho, bienhechor.<br>
 •	Los verbos cuyo infinitivo acaba en -bir y -buir.<br>
