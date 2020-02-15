@@ -93,3 +93,12 @@ Los comensales pidieron hablar con el chef para felicitarlo por el exquisito pla
 En el museo permiten sacar fotos, pero sin flash, para no estropear las obras. <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9vMHS-eAMLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+<font color="#169C28"><h3>-Ultracorreción</h3></font>
+<p>La Ultracorrección, Hipercorrección o Sobrecorrección consiste en deformar una palabra creyendo equivocadamente que se obtiene una variante más culta. </p>
+<h4>Ejemplos</h4>
+<p><b>Bilbado </b>(Bilbao)<br>
+<b>Inflacción</b> económica (inflación)<br>
+Tener <b>aficción</b> por la música (afición)<br>
+Me he metido en un <b>lido</b> (lío)<br>
+</p>
+
