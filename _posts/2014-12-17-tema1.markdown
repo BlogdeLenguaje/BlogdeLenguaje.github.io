@@ -13,5 +13,5 @@ date:   2014-12-17
 <p>Me encontré a un amigo cuando iba borracho.<br>
 <b>¿Quién iba borracho: el amigo o yo?</b><br>
 Se venden camisas para hombres grandes.<br>
-<b>¿Las camisas son grandes o los hombres?</b></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oKeUOah0xIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<b>¿Las camisas son grandes o los hombres?</b>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oKeUOah0xIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
