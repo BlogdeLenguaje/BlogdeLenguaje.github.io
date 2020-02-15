@@ -37,7 +37,13 @@ Algunas de las palabras que ya han desaparecido de la lengua española se siguen
 <b>Inaguración</b> por inauguración<br>
 <b>Nadies</b> por nadie<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mKFGxKEtqT8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AUcHsN1ZsnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <font color="#169C28"><h3>-Vulgarismo</h3></font>
+<p>Los vulgarismos son palabras o expresiones que se utilizan popularmente de forma incorrecta, que representan un error en el uso adecuado del lenguaje y que aunque va desapareciendo, cada día surgen más términos de éste al hablar.</p>
+<h4>Ejemplos</h4>
+<p>A la mejor (a lo mejor)<br>
+Abuja (aguja)<br>
+Aburrición (aburrimiento)<br>
+Alante (adelante)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AUcHsN1ZsnI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 
