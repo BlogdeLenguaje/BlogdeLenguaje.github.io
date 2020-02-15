@@ -61,7 +61,7 @@ Tomando té te mejorarás.<br>
 Correcto: Me alegro <b>de que</b> haya renunciado ese profesor.<br>
 Incorrecto: Mi marido se olvidó <b>que</b> era nuestro aniversario.<br>
 Correcto: Mi marido se olvidó <b>de que</b> era nuestro aniversario.<br>
-Incorrecto: Casi nunca me acuerdo <b>que hay que desactivar la alarma.<br>
+Incorrecto: Casi nunca me acuerdo <b>que</b> hay que desactivar la alarma.<br>
 Correcto: Casi nunca me acuerdo <b>de que</b> hay que desactivar la alarma.<br>
 <font color="#169C28"><h4>Dequeísmo</h4></font>
 <p>El dequeísmo es la utilización indebida de la preposición “de” antes de la conjunción “que“, cuando ésta no es exigida por ninguna de las palabras que componen al enunciado. </p>
