@@ -1,7 +1,13 @@
 ---
 layout: post
-title:  "tema2"
+title:  "Estructura del Parrafo"
 date:   2014-12-18
 ---
 
-addddd
+<font color="#32CD32"><h3>Definición:</h3></font>
+<p>El párrafo es una unidad de puntuación. Un conjunto de oraciones o un periodo racional que comienza con letra mayúscula y termina en un punto y aparte. Pero también es una unidad de información. </p>
+<font color="#169C28"><h4>Estructura:</h4></font>
+<p>1.- Idea principal: Puede ser distinguida fácilmente ya que tiene contenidos fundamentales. <br>
+2.- Ideas secundarias: Amplían y complementan a la idea principal. <br>
+3.- Unidad y coherencia: La oración principal como las secundarias se refieren a un solo hecho, es la organización apropiada de las oraciones de tal forma que el contenido sea claro y se entienda. </p>
+
