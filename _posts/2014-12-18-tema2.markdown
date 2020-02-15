@@ -12,7 +12,7 @@ date:   2014-12-18
 3.- Unidad y coherencia: La oración principal como las secundarias se refieren a un solo hecho, es la organización apropiada de las oraciones de tal forma que el contenido sea claro y se entienda. </p>
 <center><img src="/assets/img/parrafoestructura.jpg"></center>
 <center><font color="#32CD32"><h3>Tipos de párrafo </h3></font></center>
-<p><b>Introductorio :</b>Cumple con la función de introducir un tema preciso a fin de que el lector entienda que se encuentra en el principio de una explicación  
+<p><b>Introductorio :</b>Cumple con la función de introducir un tema preciso a fin de que el lector entienda que se encuentra en el principio de una explicación<br>  
 <b>Desarrollo: </b>Se deben explicar las ideas principales del tema. <br>
 <b>Final o conclusión:</b>Es el que cierra cualquier escrito. Termina y refuerza ciertas ideas que se han desarrollado a lo largo del escrito.<br>
 <b>Narrativos:</b> Llamado también cronológico, está formado por una secuencia de afirmaciones que no requieren garantía o demostración de sus habilidades. Es típico de una noticia, una crónica o un cuento en el que se expongan hechos en orden cronológico. <br>
