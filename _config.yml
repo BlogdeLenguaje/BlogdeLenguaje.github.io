@@ -1,4 +1,4 @@
-title: Luis Vargas Peñafiel
+title: Blog de Lenguaje
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
@@ -14,13 +14,13 @@ paginate: 5
 navigation:
   - title: Inicio
     url: /index.html
-  - title: Unidades
+  - title: Temas Propuesto
     url: /about
-  - title: Contacto
+  - title: Autores
     url: /contact
 
 social:
-  github: LuisVargasP
+  github: BlogdeLenguaje
   twitter: LuisWorkout98
   facebook: profile.php?id=100010939398193
   email: tuttorial5612@gmail.com
