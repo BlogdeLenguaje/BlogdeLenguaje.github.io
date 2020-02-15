@@ -87,10 +87,10 @@ Correcto: Los niños, <b>a quienes</b> yo cuido los fines de semana. <br>
 <font color="#169C28"><h3>-Extranjerismo</h3></font>
 <p>Los extranjerismos son aquellas palabras de idiomas extranjeros que se introducen en el propio, sin ser traducido, y se lo usa de igual forma que cualquier palabra nativa. Muchas veces sucede que la pronunciación no se respeta del todo, sino que se deforma un poco. </p>
 <h4>Ejemplos</h4>
-<p>Las encuestas muestran que los dos candidatos van muy parejos. Seguramente van a ir a balotaje.<br>
-Para poder enviar el e-mail tenés que hacer clic en este link. <br>
-Los comensales pidieron hablar con el chef para felicitarlo por el exquisito plato que había preparado. <br>
-En el museo permiten sacar fotos, pero sin flash, para no estropear las obras. <br>
+<p>Las encuestas muestran que los dos candidatos van muy parejos. Seguramente van a ir a <b>balotaje</b>.<br>
+Para poder enviar el <b>e-mail</b> tenés que hacer <b>clic</b> en este <b>link</b>. <br>
+Los comensales pidieron hablar con el <b>chef</b> para felicitarlo por el exquisito plato que había preparado. <br>
+En el museo permiten sacar fotos, pero sin <b>flash</b>, para no estropear las obras. <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9vMHS-eAMLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <font color="#169C28"><h3>-Ultracorreción</h3></font>
