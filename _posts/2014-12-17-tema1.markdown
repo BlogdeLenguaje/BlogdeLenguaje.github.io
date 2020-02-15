@@ -4,5 +4,5 @@ title:  "tema1"
 date:   2014-12-17
 ---
 
-<center><img src="https://leonides1993.files.wordpress.com/2014/05/jhkc3b1.jpg"></center>
+
 <p class="intro"><span class="dropcap">H</span>ehe k kreisi</p> 
