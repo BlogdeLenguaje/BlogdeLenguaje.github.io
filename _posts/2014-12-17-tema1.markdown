@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "tema1"
+title:  "Vicios del Lenguaje"
 date:   2014-12-17
 ---
 
 
-<p class="intro"><span class="dropcap">H</span>ehe k kreisi</p> 
+<p class="intro"><span class="dropcap">L</span>os vicios del lenguaje son las faltas que cometen ciertas personas en los códigos lingüísticos, orales o escritos, establecidos por la comunidad de hablantes de un idioma cualquiera. Estos fallos dificultan la transmisión de ideas y por ende no permiten que se concrete el acto comunicativo.
+</p> 
