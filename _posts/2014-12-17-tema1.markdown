@@ -10,8 +10,23 @@ date:   2014-12-17
 <font color="#32CD32"><center><h2>Tipos de vicios del Lenguaje</h2><br></center></font>
 <font color="#169C28"><h3>-Anfibología o Anbigüedad</h3></font>
 <p>La anfibología es catalogada como un vicio de dicción y se define como aquello que se presta para más de una interpretación, o sea, algo que se vuelve ambiguo en su significado.</p>
+<h4>Ejemplos</h4>
 <p>Me encontré a un amigo cuando iba borracho.<br>
 <b>¿Quién iba borracho: el amigo o yo?</b><br>
 Se venden camisas para hombres grandes.<br>
 <b>¿Las camisas son grandes o los hombres?</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oKeUOah0xIg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<font color="#169C28"><h3>-Anfibología o Anbigüedad</h3></font>
+<p>Se le llama arcaísmo a cuando se utilizan frecuentemente palabras del español antiguo en el lenguaje moderno, como si éstas fueran parte del español actual, éste se divide en dos tipos, que es el absoluto y el relativo.<br>
+Algunas de las palabras que ya han desaparecido de la lengua española se siguen utilizando de forma cotidiana como arcaísmo en los países de Latinoamérica , utilizando sinónimos o adaptaciones de la palabra original.</p>
+<h4>Ejemplos</h4>
+-Adrede: A propósito, con deliberada intención.
+-Convidar: Invitar.
+-Chiripa: Suerte favorecida.
+-Enflacar: Adelgazar.
+-Machucar: Partir, cascar.
+-Mandil: Delantal.
+-Rendija: Abertura larga en la pared que pasa de extremo a extremo.
+-Tabla: Madera labrada de forma ondulada para lavar la ropa en los ríos.
+-Tunda: Paliza.
+-Velada: Función nocturna.
