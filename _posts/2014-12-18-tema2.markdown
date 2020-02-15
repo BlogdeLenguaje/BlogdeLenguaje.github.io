@@ -11,17 +11,15 @@ date:   2014-12-18
 2.- Ideas secundarias: Amplían y complementan a la idea principal. <br>
 3.- Unidad y coherencia: La oración principal como las secundarias se refieren a un solo hecho, es la organización apropiada de las oraciones de tal forma que el contenido sea claro y se entienda. </p>
 <center><img src="/assets/img/parrafoestructura.jpg"></center>
-<p><font color="#32CD32"><h3>Tipos de párrafo </h3></font>
-<font color="#169C28"><b>Introductorio :</b></font>Cumple con la función de introducir un tema preciso a fin de que el lector entienda que se encuentra en el principio de una explicación  
-Desarrollo: Se deben explicar las ideas principales del tema.
-<br>
-<font color="#169C28"><b>Desarrollo: </b></font>Se deben explicar las ideas principales del tema. <br>
-<font color="#169C28"><b>Final o conclusión:</b></font>Es el que cierra cualquier escrito. Termina y refuerza ciertas ideas que se han desarrollado a lo largo del escrito.<br>
-<font color="#169C28"><b>Narrativos:</b> </font>Llamado también cronológico, está formado por una secuencia de afirmaciones que no requieren garantía o demostración de sus habilidades. Es típico de una noticia, una crónica o un cuento en el que se expongan hechos en orden cronológico. <br>
-<font color="#169C28"><b>Descriptivos: </b> </font>Un autor utiliza todos sus sentidos para delinear los atributos de los objetos y sucesos percibidos. <br>
-<font color="#169C28"><b>Argumentativos: </b> </font>Tiene como objetivo expresar opiniones o rebatirlas con el fin de persuadir a un receptor. La finalidad del autor puede ser probando o demostrando una idea (o tesis), refutar la contraria o bien persuadir o disuadir al receptor sobre determinados comportamientos, hechos o ideas. <br>
-<font color="#169C28"><b>Expositivos: </b> </font>Sirve para explicar o desarrollar más ampliamente el tema que se está presentando. <br>
-<font color="#169C28"><b>Relativos: </b> </font>Este es utilizado frecuentemente en los ensayos científicos, puesto que la naturaleza de dichos trabajos se presta para generar controversia y confusión. <br>
-<font color="#169C28"><b>Comparación o contraste: </b> </font>Consiste en comparar objetos o ideas con el propósito de diferenciar o decir sus semejanzas. <br>
-<font color="#169C28"><b>Enumeración: </b></font> Se enumeran situaciones de manera que vamos de lo más importante a lo menos importante.<br>
-<font color="#169C28"><b>Dialogado: </b> </font>Se enumeran situaciones de manera que vamos de lo más importante a lo menos importante.</p>
+<center><font color="#32CD32"><h3>Tipos de párrafo </h3></font></center>
+<p><b>Introductorio :</b>Cumple con la función de introducir un tema preciso a fin de que el lector entienda que se encuentra en el principio de una explicación  
+<b>Desarrollo: </b>Se deben explicar las ideas principales del tema. <br>
+<b>Final o conclusión:</b>Es el que cierra cualquier escrito. Termina y refuerza ciertas ideas que se han desarrollado a lo largo del escrito.<br>
+<b>Narrativos:</b> Llamado también cronológico, está formado por una secuencia de afirmaciones que no requieren garantía o demostración de sus habilidades. Es típico de una noticia, una crónica o un cuento en el que se expongan hechos en orden cronológico. <br>
+<b>Descriptivos: </b>Un autor utiliza todos sus sentidos para delinear los atributos de los objetos y sucesos percibidos. <br>
+<b>Argumentativos: </b>Tiene como objetivo expresar opiniones o rebatirlas con el fin de persuadir a un receptor. La finalidad del autor puede ser probando o demostrando una idea (o tesis), refutar la contraria o bien persuadir o disuadir al receptor sobre determinados comportamientos, hechos o ideas. <br>
+<b>Expositivos: </b>Sirve para explicar o desarrollar más ampliamente el tema que se está presentando. <br>
+<b>Relativos: </b>Este es utilizado frecuentemente en los ensayos científicos, puesto que la naturaleza de dichos trabajos se presta para generar controversia y confusión. <br>
+<b>Comparación o contraste: </b>Consiste en comparar objetos o ideas con el propósito de diferenciar o decir sus semejanzas. <br>
+<b>Enumeración: </b>Se enumeran situaciones de manera que vamos de lo más importante a lo menos importante.<br>
+<b>Dialogado: </b>Se enumeran situaciones de manera que vamos de lo más importante a lo menos importante.</p>
