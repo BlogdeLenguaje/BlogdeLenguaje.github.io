@@ -12,10 +12,11 @@ date:   2014-12-18
 3.- Unidad y coherencia: La oración principal como las secundarias se refieren a un solo hecho, es la organización apropiada de las oraciones de tal forma que el contenido sea claro y se entienda. </p>
 <center><img src="/assets/img/parrafoestructura.jpg"></center>
 <p><font color="#32CD32"><h3>Tipos de párrafo </h3></font>
-<font color="#169C28"><b>Introductorio :</b></font>
+<font color="#169C28"><b>Introductorio :</b></font>Cumple con la función de introducir un tema preciso a fin de que el lector entienda que se encuentra en el principio de una explicación  
+Desarrollo: Se deben explicar las ideas principales del tema.
 <br>
-<font color="#169C28"><b>Desarrollo: </b></font>Debe ser explicativo <br>
-<font color="#169C28"><b>Final o conclusión:</b></font><br>
+<font color="#169C28"><b>Desarrollo: </b></font>Se deben explicar las ideas principales del tema. <br>
+<font color="#169C28"><b>Final o conclusión:</b></font>Es el que cierra cualquier escrito. Termina y refuerza ciertas ideas que se han desarrollado a lo largo del escrito.<br>
 <font color="#169C28"><b>Narrativos:</b> </font>Llamado también cronológico, está formado por una secuencia de afirmaciones que no requieren garantía o demostración de sus habilidades. Es típico de una noticia, una crónica o un cuento en el que se expongan hechos en orden cronológico. <br>
 <font color="#169C28"><b>Descriptivos: </b> </font>Un autor utiliza todos sus sentidos para delinear los atributos de los objetos y sucesos percibidos. <br>
 <font color="#169C28"><b>Argumentativos: </b> </font>Tiene como objetivo expresar opiniones o rebatirlas con el fin de persuadir a un receptor. La finalidad del autor puede ser probando o demostrando una idea (o tesis), refutar la contraria o bien persuadir o disuadir al receptor sobre determinados comportamientos, hechos o ideas. <br>
