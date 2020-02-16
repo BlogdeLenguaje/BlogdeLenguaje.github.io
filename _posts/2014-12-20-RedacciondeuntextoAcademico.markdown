@@ -12,4 +12,4 @@ date:   2014-12-20
 
 
 <embed src="/assets/img/Drogas.pdf" width="100%" height="600px" />
-<embed src="https:/assets/img/EnsayoIzuierda.pdf" />
+<embed src="https:/assets/img/EnsayoIzuierda.pdf" width="100%" height="600px"/>
