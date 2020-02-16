@@ -50,7 +50,7 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 <b>2) Se escriben con C las palabras terminadas en ancia, ancio, encía. Excepciones: ansia, Hortensia.</b><br>
 <b>Ejemplos:</b> constan<b>c</b>ia, excelen<b>c</b>ia, extravagan<b>c</b>ia, cansan<b>c</b>io, decaden<b>c</b>ia, indulgen<b>c</b>ia, fragan<b>c</b>ia, <br>
 <b>3) Se escriben con C las palabras terminadas en ción, afines a to, tor, dar</b>.<br>
-<b>Ejemplos:<b> composi<b>c</b>ión-compositor, bendi<b>c</b>ión-bendito, rota<b>c</b>ión-rotador, atribu<b>c</b>ión-atributo.<br>
+<b>Ejemplos:</b> composi<b>c</b>ión-compositor, bendi<b>c</b>ión-bendito, rota<b>c</b>ión-rotador, atribu<b>c</b>ión-atributo.<br>
 <b>4) Se escriben con C los diminutivos: cito, ecito, ecillo, si proceden de palabras que no terminan con S. </b><br>
 <b>Ejemplos: </b> pez-pece<b>c</b>ito, dulce-dulce<b>c</b>ito, pie-pie<b>c</b>e<b>c</b>ito, flor-flore<b>c</b>ita, mamá-mama<b>c</b>ita.<br>
 <b>5) Se escriben con C los sufijos cida, cido, cidio. </b><br>
@@ -69,7 +69,37 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 <b>11) Se escriben con C las formas de los verbos terminados en ceder, cender, cibir, citar, siempre que no proceda de raíces que lleven s.</b>
 <b>Ejemplos: </b> con<b>c</b>eder, en<b>c</b>ender, re<b>c</b>itar, re<b>c</b>ibir, ante<b>c</b>eder, per<b>c</b>ibir.<br>
 <b>12) Se escriben con C los verbos terminados en zar. Ante la vocal e cambian a c. </b><br>
-<b>Ejemplos: <b> Analizar - Anali<b>c</b>e, avergonzar-avergüen<b>c</b>e, canalizar - canali<b>c</b>e, utilizar – utili<b>c</b>e<br>
+<b>Ejemplos: </b> Analizar - Anali<b>c</b>e, avergonzar-avergüen<b>c</b>e, canalizar - canali<b>c</b>e, utilizar – utili<b>c</b>e<br>
+
+<font color="#169C28"><h4> REGLAS ORTOGRÁFICAS DE LA S CON EJEMPLOS Y EXCEPCIONES
+</h4></font><br>
+</b>1) Se escriben con S las palabras que terminan en ense que son referentes a los gentilicios. </b><br>
+<b>Ejemplos: </b> nicaragüen<b>s</b>e, costarricen<b>s</b>e, canadien<b>s</b>e, mexiquen<b>s</b>e.<br>
+<b>2) Se escriben con S las terminaciones sivo, siva. </b><br>
+<b>Ejemplos: </b> corro<b>s</b>ivo, ma<b>s</b>iva, explo<b>s</b>ivo, expre<b>s</b>iva, inten<b>s</b>ivo.<br>
+<b>3) Se escriben con S las palabras terminadas en sión cuando proceden de palabras terminadas en so, sor, sivo. </b><br>
+<b>Ejemplos: </b> compren<b>s</b>ión-comprensivo, persua<b>s</b>ión-persuasivo, repre<b>s</b>ión-represivo, previ<b>s</b>ión-previsor, precisión-preciso.<br>
+<b>4) Se escriben con S las palabras terminadas en los superlativos ísimo, ísima. </b><br>
+<b>Ejemplos: </b> bellí<b>s</b>ima, lindí<b>s</b>imo, feí<b>s</b>ima, inteligentí<b>s</b>ima, delicadí<b>s</b>imo.<br>
+<b>5) Se escriben con S las palabras terminadas en oso, osa. </b><br>
+<b>Ejemplos: </b> Bondado<b>s</b>o, sabro<b>s</b>a, dadivo<b>s</b>o, perezo<b>s</b>a, maravillo<b>s</b>o, grandio<b>s</b>o.<br>
+<b>6) Se escriben con S las palabras terminadas en ismo. </b><br>
+<b>Ejemplos: </b> espiriti<b>s</b>mo, oscuranti<b>s</b>mo, atleti<b>s</b>mo, altrui<b>s</b>mo, vanguardi<b>s</b>mo.<br>
+<b>7) Se escriben con S las palabras terminadas en esca, esco. </b><br>
+<b>Ejemplos: </b> grote<b>s</b>ca, dante<b>s</b>ca, burle<b>s</b>co, gigante<b>s</b>co, pintore<b>s</b>co.<br>
+<b>8) Se escribe con S la palabra hubiese, auxiliar del verbo haber, pretérito pluscuamperfecto, modo subjuntivo. </b><br>
+<b>Ejemplos: </b> hubie<b>s</b>e amado.<br>
+<b>9) Se escriben con S las terminaciones esta, esto, ista. </b><br>
+<b>Ejemplos: </b> femini<b>s</b>ta, violini<b>s</b>ta, tie<b>s</b>to, fie<b>s</b>ta arti<b>s</b>ta.<br>
+<b>10) Se escribe con S la terminación se de todos los verbos del pretérito imperfecto, del modo subjuntivo. </b><br>
+<b>Ejemplos: </b> partie<b>s</b>e, ama<b>s</b>e, cumplie<b>s</b>e, subie<b>s</b>e, temie<b>s</b>e.<br>
+<b>11) Se escriben con S las palabras que terminan en ersa, erse, erso. </b><br>
+</b>Ejemplos: </b>atrever<b>s</b>e, adver<b>s</b>a, conver<b>s</b>o, inver<b>s</b>o, embellecer<b>s</b>e, perver<b>s</b>a.<br>
+<b>12) Se escriben con S los verbos que en su infinitivo no tienen s, c ni z. </b><br>
+<b>Ejemplos: </b> querer-qui<b>s</b>o, haber-ha<b>s</b>, ver-ve<b>s. </b><br>
+<font color=><h4>REGLAS ORTOGRÁFICAS DE LA Z CON EJEMPLOS Y EXCEPCIONES</h4></font>
+<b>1) Se escriben con Z las palabras terminadas en anza/o y azgo. Excepciones: gansa/o, mansa/o. </b><br>
+<b>Ejemplos:</b> adivinan<b>z</b>a, mudan<b>z</b>a, pan<b>z</b>a, halla<b>z</b>go, dan<b>z</b>a, alaban<b>z</b>a, almiranta<b>z</b>go.<br>
 
 
 
