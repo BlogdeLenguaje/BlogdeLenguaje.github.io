@@ -12,4 +12,4 @@ date:   2014-12-20
 
 
 <embed src="/assets/img/Drogas.pdf" width="100%" height="600px" />
-<embed src="https://github.com/BlogdeLenguaje/BlogdeLenguaje.github.io/blob/master/assets/img/Byron%20Vargas%20%20LAS%20TENDENCIAS%20DE%20IZQUIERDA%20Y%20DERECHA%20NO%20EXISTEN.docx" />
+<embed src="https:/assets/img/EnsayoIzuierda.pdf" />
