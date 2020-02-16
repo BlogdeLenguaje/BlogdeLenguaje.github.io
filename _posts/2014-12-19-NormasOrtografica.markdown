@@ -109,13 +109,6 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 <b>5) Se escriben con Z las terminaciones zuela, zuelo, que denotan disminución o desprecio. </b>
 <b>Ejemplos: </b> mujer<b>z</b>uela, ladron<b>z</b>uelo, porte<b>z</b>uela, joven<b>z</b>uelo.
 
-
-
-
-<font color="#169C28"><h3> El uso de la Z
-</h3></font>
-<p>• La letra z, se utiliza cuando las palabras terminan en azo, como balazo.<br>
-• También con sustantivos como ez, eza, como gentileza-naturaleza-validez.</p>
 <center><font color="#32CD32"><h2>Normas ortográficas de C, Q y K</h2></font></center>
 <font color="#169C28"><h3>Uso de la c (ce)</h3></font>
 <p>
