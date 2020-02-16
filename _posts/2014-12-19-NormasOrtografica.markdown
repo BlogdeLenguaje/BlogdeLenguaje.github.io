@@ -43,18 +43,25 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 •	dibujo ⇒ dibujante; noble ⇒ nobleza; arribo ⇒ arribada.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrnkGam_7tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <center><font color="#32CD32"><h2>Normas Ortográficas de C, S y Z</h2></font></center>
-<font color="#169C28"><h3>El uso de la C</h3></font>
-<p>La C es la tercera letra del abecedario y su uso varía de acuerdo a cada palabra.<br>
-• Normalmente su sonido depende de las vocales a, o y u, por ejemplo: casa, cosas, cuerda, etc., o como las terminaciones: cito, cita, cillo. <br>
-• Aquellas palabras que termina en z y se cambia a plural, se escriben con “c”. Ejemplos: lápiz- lápices o luz-luces.<br>
-• Y por último, siempre que el sustantivo termine el tor y en sor, cambia a “ción”. Ejemplos: destructor-destrucción, director-dirección.</p>
-<font color="#169C28"><h3> El uso de la S
-</h3></font>
-<p>• Palabras que terminan en “sivo” como intensivo o antidepresivo, con algunas excepciones como nocivo y lascivo.<br>
-• También pueden tener terminaciones en:<br>
-– Es-esa como finlandés-francesa<br>
-– Esco-asco como pintoresco, grotesco<br>
-– Así como los adjetivos en ismo como altísimo o gravísimo</p>
+<font color="#169C28"><h4>REGLAS DE ORTOGRAFÍA DE LA C CON EJEMPLOS Y EXCEPCIONES</h4></font>
+<b><p>1) Se escriben con C los verbos terminados en cir y ducir.</b><br>
+<b>Ejemplos:</b> conducir, aducir, traducir, esparcir, producir, relucir, zurcir, decir. Excepción: asir.<br>
+
+<font color="#4b3621"><b>2) Se escriben con C las palabras terminadas en ancia, ancio, encía. Excepciones: ansia, Hortensia.</b></font><br>
+<b>Ejemplos:</b> constan<b>c</b>ia, excelen<b>c</b>ia, extravagan<b>c</b>ia, cansan<b>c</b>io, decaden<b>c</b>ia, indulgen<b>c</b>ia, fragan<b>c</b>ia, <br>
+
+<b>3) Se escriben con C las palabras terminadas en ción, afines a to, tor, dar</b>.<br>
+<b>Ejemplos:<b> composi<b>c</b>ión-compositor, bendi<b>c</b>ión-bendito, rota<b>c</b>ión-rotador, atribu<b>c</b>ión-atributo.<br>
+
+<b>4) Se escriben con C los diminutivos: cito, ecito, ecillo, si proceden de palabras que no terminan con S. </b><br>
+<b>Ejemplos: </b> pez-pece<b>c</b>ito, dulce-dulce<b>c</b>ito, pie-pie<b>c</b>e<b>c</b>ito, flor-flore<b>c</b>ita, mamá-mama<b>c</b>ita.<br>
+
+<b>5) Se escriben con C los sufijos cida, cido, cidio. </b><br>
+<b>Ejemplos: </b> homi<b>c</b>ida, parri<b>c</b>ida, amane<b>c</b>ido, apare<b>c</b>ida, estable<b>c</b>ido, geno<b>c</b>idio.<br>
+
+
+
+
 <font color="#169C28"><h3> El uso de la Z
 </h3></font>
 <p>• La letra z, se utiliza cuando las palabras terminan en azo, como balazo.<br>
