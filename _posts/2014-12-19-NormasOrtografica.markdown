@@ -42,11 +42,11 @@ Excepciones: ví<b>bora</b><br>
 Además de las excepciones que aparecen en las reglas, también son excepciones sus derivados.<br>
 •	dibujo ⇒ dibujante; noble ⇒ nobleza; arribo ⇒ arribada.<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrnkGam_7tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
 <center><font color="#32CD32"><h2>Normas Ortográficas de C, S y Z</h2></font></center>
 <font color="#169C28"><h4>REGLAS DE ORTOGRAFÍA DE LA C CON EJEMPLOS Y EXCEPCIONES</h4></font>
-<b><p>1) Se escriben con C los verbos terminados en cir y ducir.</b><br>
+<b>1) Se escriben con C los verbos terminados en cir y ducir.</b><br>
 <b>Ejemplos:</b> conducir, aducir, traducir, esparcir, producir, relucir, zurcir, decir. Excepción: asir.<br>
-
 <b>2) Se escriben con C las palabras terminadas en ancia, ancio, encía. Excepciones: ansia, Hortensia.</b><br>
 <b>Ejemplos:</b> constan<b>c</b>ia, excelen<b>c</b>ia, extravagan<b>c</b>ia, cansan<b>c</b>io, decaden<b>c</b>ia, indulgen<b>c</b>ia, fragan<b>c</b>ia, <br>
 <b>3) Se escriben con C las palabras terminadas en ción, afines a to, tor, dar</b>.<br>
@@ -69,7 +69,7 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 <b>11) Se escriben con C las formas de los verbos terminados en ceder, cender, cibir, citar, siempre que no proceda de raíces que lleven s.</b>
 <b>Ejemplos: </b> con<b>c</b>eder, en<b>c</b>ender, re<b>c</b>itar, re<b>c</b>ibir, ante<b>c</b>eder, per<b>c</b>ibir.<br>
 <b>12) Se escriben con C los verbos terminados en zar. Ante la vocal e cambian a c. </b><br>
-<b>Ejemplos: <b> Analizar - Anali<b>c</b>e, avergonzar-avergüen<b>c</b>e, canalizar - canali<b>c</b>e, utilizar – utili<b>c</b>e<br></p>
+<b>Ejemplos: <b> Analizar - Anali<b>c</b>e, avergonzar-avergüen<b>c</b>e, canalizar - canali<b>c</b>e, utilizar – utili<b>c</b>e<br>
 
 
 
