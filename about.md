@@ -24,11 +24,11 @@ title: Temas propuestos
  <h1><center>¿Por qué consideramos estos temas?:<br></center></h1>
  <p class="intro" aling="justify"><span class="dropcap">S</span>Se selecionaron estos temas por motivos de bla bla bla</p>  
 <h2>Dele click para ver el tema</h2><br>
- <a href="https://blogdelenguaje.github.io/blog/ViciosdelLenguaje/">-Vicios del Lenguaje</a><br> 
-  <a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br> 
-  <a href="https://blogdelenguaje.github.io/blog/NormasOrtografica/">-Uso correcto de B y V...</a><br> 
+ <h4><a href="https://blogdelenguaje.github.io/blog/ViciosdelLenguaje/">-Vicios del Lenguaje</a><br></h4>
+  <h4><a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br></h4>
+  <h4><a href="https://blogdelenguaje.github.io/blog/NormasOrtografica/">-Uso correcto de B y V...</a><br></h4>
   <h4><a href="https://blogdelenguaje.github.io/blog/RedacciondeuntextoAcademico/">-La redacción de un texto Académico</a><br></h4>
-  <a href="https://blogdelenguaje.github.io/blog/tema5/">-Tema 5</a><br> 
-  <a href="https://blogdelenguaje.github.io/blog/tema6/">-Tema 6</a><br> 
+  <h4><a href="https://blogdelenguaje.github.io/blog/tema5/">-Tema 5</a><br></h4> 
+  <h4><a href="https://blogdelenguaje.github.io/blog/tema6/">-Tema 6</a><br></h4>
 
 
