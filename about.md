@@ -21,9 +21,9 @@ title: Temas propuestos
     {% if paginator.next_page %}
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
- <h1><center>¿Por qué consideramos estos temas?:<br></center></h1>
+ <font color="#32CC32"><h2><center>¿Por qué consideramos estos temas?:<br></center></h2></font>
  <p class="intro" aling="justify"><span class="dropcap">S</span>Se selecionaron estos temas por motivos de bla bla bla</p>  
-<h2>Dele click para ver el tema</h2><br>
+<h4>Dele click para ver el tema</h4><br>
  <h4><a href="https://blogdelenguaje.github.io/blog/ViciosdelLenguaje/">-Vicios del Lenguaje</a><br></h4>
   <h4><a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br></h4>
   <h4><a href="https://blogdelenguaje.github.io/blog/NormasOrtografica/">-Uso correcto de B y V...</a><br></h4>
