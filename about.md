@@ -22,7 +22,7 @@ title: Temas propuestos
       <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Temas siguientes</a>
     {% endif %}
  <font color="#32CC32"><h2><center>¿Por qué consideramos estos temas?:<br></center></h2></font>
- <p class="intro" aling="justify"><span class="dropcap">S</span>Se selecionaron estos temas por motivos de bla bla bla</p>  
+ <p class="intro" aling="justify"><span class="dropcap">S</span>El tema de este Blog es “Lineamientos y Sugerencias para el buen uso de la Lengua Escrita” con dicho tema quisimos dar un poco de ayuda a aquellos estudiantes o personas que se están adentrando en el aprendizaje de la lengua española, ya que los subtemas que hemos propuesto conllevan a reforzar la utilización de las reglas ortográficas.  Espero que los temas aquí expuestos sean de mucha ayuda  a los visitantes de este blog.</p>  
 <h4>Dele click para ver el tema</h4><br>
  <h4><a href="https://blogdelenguaje.github.io/blog/ViciosdelLenguaje/">-Vicios del Lenguaje</a><br></h4>
   <h4><a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br></h4>
