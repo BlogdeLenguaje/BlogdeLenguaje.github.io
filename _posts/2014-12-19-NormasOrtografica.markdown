@@ -73,7 +73,7 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 
 <font color="#169C28"><h4> REGLAS ORTOGRÁFICAS DE LA S CON EJEMPLOS Y EXCEPCIONES
 </h4></font><br>
-</b>1) Se escriben con S las palabras que terminan en ense que son referentes a los gentilicios. </b><br>
+<b>1) Se escriben con S las palabras que terminan en ense que son referentes a los gentilicios. </b><br>
 <b>Ejemplos: </b> nicaragüen<b>s</b>e, costarricen<b>s</b>e, canadien<b>s</b>e, mexiquen<b>s</b>e.<br>
 <b>2) Se escriben con S las terminaciones sivo, siva. </b><br>
 <b>Ejemplos: </b> corro<b>s</b>ivo, ma<b>s</b>iva, explo<b>s</b>ivo, expre<b>s</b>iva, inten<b>s</b>ivo.<br>
@@ -94,12 +94,20 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 <b>10) Se escribe con S la terminación se de todos los verbos del pretérito imperfecto, del modo subjuntivo. </b><br>
 <b>Ejemplos: </b> partie<b>s</b>e, ama<b>s</b>e, cumplie<b>s</b>e, subie<b>s</b>e, temie<b>s</b>e.<br>
 <b>11) Se escriben con S las palabras que terminan en ersa, erse, erso. </b><br>
-</b>Ejemplos: </b>atrever<b>s</b>e, adver<b>s</b>a, conver<b>s</b>o, inver<b>s</b>o, embellecer<b>s</b>e, perver<b>s</b>a.<br>
+<b>Ejemplos: </b>atrever<b>s</b>e, adver<b>s</b>a, conver<b>s</b>o, inver<b>s</b>o, embellecer<b>s</b>e, perver<b>s</b>a.<br>
 <b>12) Se escriben con S los verbos que en su infinitivo no tienen s, c ni z. </b><br>
 <b>Ejemplos: </b> querer-qui<b>s</b>o, haber-ha<b>s</b>, ver-ve<b>s. </b><br>
-<font color=><h4>REGLAS ORTOGRÁFICAS DE LA Z CON EJEMPLOS Y EXCEPCIONES</h4></font>
+<font color="#169C28"><h4>REGLAS ORTOGRÁFICAS DE LA Z CON EJEMPLOS Y EXCEPCIONES</h4></font><br>
 <b>1) Se escriben con Z las palabras terminadas en anza/o y azgo. Excepciones: gansa/o, mansa/o. </b><br>
 <b>Ejemplos:</b> adivinan<b>z</b>a, mudan<b>z</b>a, pan<b>z</b>a, halla<b>z</b>go, dan<b>z</b>a, alaban<b>z</b>a, almiranta<b>z</b>go.<br>
+<b>2) Se escriben con Z, las terminaciones ez, eza, az, oz, de los nombres abstractos. </b><br>
+<b>Ejemplos: </b> belle<b>z</b>a, vora<b>z</b>, pereza, fugaz, rigidez, atroz, palidez, pa<b>z. </b><br>
+<b>3) Se escriben con Z las terminaciones azo, aza que denotan aumento, golpe. </b><br>
+<b>Ejemplos: </b>mana<b>z</b>a, carra<b>z</b>o, oja<b>z</b>os, coda<b>z</b>o, puerta<b>z</b>o, mujera<b>z</b>a.<br>
+<b>4) Se escriben con Z las terminaciones iz, ez, oz, az, de los nombres patronímicos. </b><br>
+<b>Ejemplos: </b> Rodrígue<b>z</b>, Rui<b>z</b>, Sánche<b>z</b>, Muño<b>z</b>, Ramíre<b>z</b>, Orti<b>z</b>, Villala<b>z. </b><br>
+<b>5) Se escriben con Z las terminaciones zuela, zuelo, que denotan disminución o desprecio. </b>
+<b>Ejemplos: </b> mujer<b>z</b>uela, ladron<b>z</b>uelo, porte<b>z</b>uela, joven<b>z</b>uelo.
 
 
 
