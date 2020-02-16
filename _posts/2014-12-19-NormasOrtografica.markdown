@@ -47,17 +47,29 @@ Además de las excepciones que aparecen en las reglas, también son excepciones 
 <b><p>1) Se escriben con C los verbos terminados en cir y ducir.</b><br>
 <b>Ejemplos:</b> conducir, aducir, traducir, esparcir, producir, relucir, zurcir, decir. Excepción: asir.<br>
 
-<font color="#4b3621"><b>2) Se escriben con C las palabras terminadas en ancia, ancio, encía. Excepciones: ansia, Hortensia.</b></font><br>
+<b>2) Se escriben con C las palabras terminadas en ancia, ancio, encía. Excepciones: ansia, Hortensia.</b><br>
 <b>Ejemplos:</b> constan<b>c</b>ia, excelen<b>c</b>ia, extravagan<b>c</b>ia, cansan<b>c</b>io, decaden<b>c</b>ia, indulgen<b>c</b>ia, fragan<b>c</b>ia, <br>
-
 <b>3) Se escriben con C las palabras terminadas en ción, afines a to, tor, dar</b>.<br>
 <b>Ejemplos:<b> composi<b>c</b>ión-compositor, bendi<b>c</b>ión-bendito, rota<b>c</b>ión-rotador, atribu<b>c</b>ión-atributo.<br>
-
 <b>4) Se escriben con C los diminutivos: cito, ecito, ecillo, si proceden de palabras que no terminan con S. </b><br>
 <b>Ejemplos: </b> pez-pece<b>c</b>ito, dulce-dulce<b>c</b>ito, pie-pie<b>c</b>e<b>c</b>ito, flor-flore<b>c</b>ita, mamá-mama<b>c</b>ita.<br>
-
 <b>5) Se escriben con C los sufijos cida, cido, cidio. </b><br>
 <b>Ejemplos: </b> homi<b>c</b>ida, parri<b>c</b>ida, amane<b>c</b>ido, apare<b>c</b>ida, estable<b>c</b>ido, geno<b>c</b>idio.<br>
+<font color="#169C28"><h4>REGLAS DE ORTOGRAFÍA DE LA C CON EJEMPLOS Y EXCEPCIONES</h4></font>
+<b>6) Se escriben con C, las palabras terminadas en cimiento.</b><br>
+<b>Ejemplos: </b> agrade<b>c</b>imiento, pade<b>c</b>imiento, restable<b>c</b>imiento, na<b>c</b>imiento, estable<b>c</b>imiento, enrique<b>c</b>imiento.<br>
+<b>7) Se escriben con C los verbos terminados en cer. Excepciones: toser, coser, ser. </b><br>
+<b>Ejemplos: </b> na<b>c</b>er, ya<b>c</b>er, ha<b>c</b>er, adole<b>c</b>er, agrade<b>c</b>er, retor<b>c</b>er, estreme<b>c</b>er.<br>
+</b>8) Se escriben con C los verbos terminados en ciar. Excepciones: lisiar, ansiar, extasiar, anestesiar. </b><br>
+<b>Ejemplos: </b> apre<b>c</b>iar, acari<b>c</b>iar, ne<b>c</b>iar, va<b>c</b>iar, nego<b>c</b>iar, vi<b>c</b>iar.<br>
+<b>9) Se escriben con C las palabras terminadas en acia, icia, icie, icio. Excepciones: Dionisio, gimnasio, Asia, anastasia, alisio, eutanasia. </b><br>
+<b>Ejemplos: </b> Feni<b>c</b>io, plani<b>c</b>ie, bulli<b>c</b>io, peri<b>c</b>ia, codi<b>c</b>ia, mali<b>c</b>ia, fala<b>c</b>ia.<br>
+<b>10) Se escribe con C la terminación ces que surge del plural de las palabras que contienen z. </b><br>
+<b>Ejemplos: </b> maíz-maí<b>c</b>es, raíz-raí<b>c</b>es, pez-pe<b>c</b>es, rapaz-rapa<b>c</b>es, atroz-atro<b>c</b>es.<br>
+<b>11) Se escriben con C las formas de los verbos terminados en ceder, cender, cibir, citar, siempre que no proceda de raíces que lleven s.</b>
+<b>Ejemplos: </b> con<b>c</b>eder, en<b>c</b>ender, re<b>c</b>itar, re<b>c</b>ibir, ante<b>c</b>eder, per<b>c</b>ibir.<br>
+<b>12) Se escriben con C los verbos terminados en zar. Ante la vocal e cambian a c. </b><br>
+<b>Ejemplos: <b> Analizar - Anali<b>c</b>e, avergonzar-avergüen<b>c</b>e, canalizar - canali<b>c</b>e, utilizar – utili<b>c</b>e<br></p>
 
 
 
