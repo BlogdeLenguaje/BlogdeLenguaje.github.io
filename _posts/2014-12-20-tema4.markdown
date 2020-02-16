@@ -1,7 +1,0 @@
----
-layout: post
-title:  "Tema 4"
-date:   2014-12-20
----
-
-<p class="intro"><span class="dropcap">H</span>ace mucho tiempo en un lugar de mancha  .<br>
