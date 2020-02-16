@@ -11,5 +11,5 @@ date:   2014-12-20
 
 
 
-<embed src="https://github.com/BlogdeLenguaje/BlogdeLenguaje.github.io/blob/master/assets/img/Drogas%20lalala%20(1).pdf" width="100%" height="600px" />
+<embed src="/assets/img/Drogas.pdf" width="100%" height="600px" />
 <embed src="https://github.com/BlogdeLenguaje/BlogdeLenguaje.github.io/blob/master/assets/img/Byron%20Vargas%20%20LAS%20TENDENCIAS%20DE%20IZQUIERDA%20Y%20DERECHA%20NO%20EXISTEN.docx" />
