@@ -28,7 +28,5 @@ title: Temas propuestos
   <h4><a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br></h4>
   <h4><a href="https://blogdelenguaje.github.io/blog/NormasOrtografica/">-Normas Ortográficas.</a><br></h4>
   <h4><a href="https://blogdelenguaje.github.io/blog/RedacciondeuntextoAcademico/">-La redacción de un texto Académico</a><br></h4>
-  <h4><a href="https://blogdelenguaje.github.io/blog/tema5/">-Tema 5</a><br></h4> 
-  <h4><a href="https://blogdelenguaje.github.io/blog/tema6/">-Tema 6</a><br></h4>
 
 
