@@ -27,7 +27,7 @@ title: Temas propuestos
  <a href="https://blogdelenguaje.github.io/blog/ViciosdelLenguaje/">-Vicios del Lenguaje</a><br> 
   <a href="https://blogdelenguaje.github.io/blog/EstructuradelParrafo/">-Estructura del Parrafo</a><br> 
   <a href="https://blogdelenguaje.github.io/blog/NormasOrtografica/">-Uso correcto de B y V...</a><br> 
-  <a href="https://blogdelenguaje.github.io/blog/RedacciondeuntextoAcademico/">-Tema 4</a><br> 
+  <h4><a href="https://blogdelenguaje.github.io/blog/RedacciondeuntextoAcademico/">-La redacción de un texto Académico</a><br></h4>
   <a href="https://blogdelenguaje.github.io/blog/tema5/">-Tema 5</a><br> 
   <a href="https://blogdelenguaje.github.io/blog/tema6/">-Tema 6</a><br> 
 
