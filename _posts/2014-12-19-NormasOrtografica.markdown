@@ -41,6 +41,7 @@ Excepciones: c<b>eba</b>, pru<b>eba</b>, manc<b>ebo</b>, plac<b>ebo</b>, rec<b>e
 Excepciones: ví<b>bora</b><br>
 Además de las excepciones que aparecen en las reglas, también son excepciones sus derivados.<br>
 •	dibujo ⇒ dibujante; noble ⇒ nobleza; arribo ⇒ arribada.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrnkGam_7tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center><font color="#32CD32"><h2>Normas Ortográficas de C, S y Z</h2></font></center>
 <font color="#169C28"><h3>El uso de la C</h3></font>
 <p>La C es la tercera letra del abecedario y su uso varía de acuerdo a cada palabra.<br>
