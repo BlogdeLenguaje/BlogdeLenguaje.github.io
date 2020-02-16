@@ -2,7 +2,7 @@
 layout: default
 title: Temas propuestos
 ---
-  <h1 class="pageTitle">Testo</h1>
+  <h1 class="pageTitle">Temas Propuestos</h1>
   <embed src="{{ '/assets/img/' | prepend: site.baseurl }}" autostarty="true" loop="true" volumen="30" width="0" height="0">
   <ul class="posts noList">
     {% for post in paginator.posts %}
