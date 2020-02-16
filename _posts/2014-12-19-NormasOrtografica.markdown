@@ -40,8 +40,8 @@ Excepciones: c<b>eba</b>, pru<b>eba</b>, manc<b>ebo</b>, plac<b>ebo</b>, rec<b>e
 •	Las palabras terminadas en <b>-vira, -viro, -ívora, -ívoro</b>. Ejemplo: El<b>vira</b>, triun<b>viro</b>, herb<b>ívora</b>, omn<b>ívoro. </b> <br>
 Excepciones: ví<b>bora</b><br>
 Además de las excepciones que aparecen en las reglas, también son excepciones sus derivados.<br>
-•	dibujo ⇒ dibujante; noble ⇒ nobleza; arribo ⇒ arribada.</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MrnkGam_7tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+•	dibujo ⇒ dibujante; noble ⇒ nobleza; arribo ⇒ arribada.<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MrnkGam_7tc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 <center><font color="#32CD32"><h2>Normas Ortográficas de C, S y Z</h2></font></center>
 <font color="#169C28"><h3>El uso de la C</h3></font>
 <p>La C es la tercera letra del abecedario y su uso varía de acuerdo a cada palabra.<br>
